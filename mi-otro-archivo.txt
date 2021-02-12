@@ -1,8 +1,8 @@
-Andrés
-Bryan
-Daniel (yo)
-Jesus
-Juan David
-Karen
-María
-William
+Andrés correo@gmail.com
+Bryan correo@gmail.com
+Daniel (yo) correo@gmail.com
+Jesus correo@gmail.com
+Juan David correo@gmail.com
+Karen correo@gmail.com
+María correo@gmail.com
+William correo@gmail.com
